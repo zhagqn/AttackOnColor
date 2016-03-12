@@ -240,13 +240,14 @@ proguard/
 *.log
 
 # Platform folders
-*/cocos2d/
-*/proj.ios_mac/
-*/proj.android/
-*/proj.linux/
-*/proj.win8.1-universal/
-*/proj.win32/
-*/proj.wp8-xaml/
+cocos2d/
+proj.ios_mac/
+proj.android/
+proj.linux/
+proj.win8.1-universal/
+proj.win32/
+proj.wp8-xaml/
+proj.android-studio/
 .cocos-project.json
 CMakeLists.txt
 !*/proj.android/jni
